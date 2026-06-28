@@ -1,6 +1,6 @@
 # ☁️ AWS Academy – Cloud Technical Essentials
 
-> Labs, reports, and notes from the AWS Academy course at Cairo University – Faculty of Computers and Artificial Intelligence.
+> Labs, reports, and notes from the AWS Academy course.
 
 **Course:** AWS Academy – Cloud Technical Essentials
 
