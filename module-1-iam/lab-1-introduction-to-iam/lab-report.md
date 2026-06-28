@@ -46,7 +46,7 @@ The IAM Sign-in URL was successfully obtained.
 
 **Figure 1 – IAM Dashboard showing the IAM Sign-in URL**
 
-![Figure 1 – IAM Dashboard Sign-in URL](!image.png)
+![Figure 1 – IAM Dashboard Sign-in URL](https://github.com/mosadiq22/aws-academy/blob/e6ba84a84f2750a196d2554f0f68ebb15a8c03ab/module-1-iam/lab-1-introduction-to-iam/screenshots/image.png)
 
 ---
 
