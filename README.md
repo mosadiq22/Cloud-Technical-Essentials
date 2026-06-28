@@ -1,8 +1,8 @@
 # ☁️ AWS Academy – Cloud Technical Essentials
 
 > Labs, reports, and notes from the AWS Academy course at Cairo University – Faculty of Computers and Artificial Intelligence.
- 
-**Course:** AWS Academy – Cloud Technical Essentials  
+
+**Course:** AWS Academy – Cloud Technical Essentials
 
 ---
 
@@ -32,6 +32,19 @@ aws-academy/
 
 ---
 
+## 🚀 Quick Access – Lab Reports
+
+| Module | Lab | Report |
+|--------|-----|--------|
+| Module 1 – IAM | Lab 1: Introduction to IAM | [📄 View Report](module-1-iam/lab-1-introduction-to-iam/lab-report.md) |
+| Module 2 – S3 | Coming soon | — |
+| Module 3 – EC2 | Coming soon | — |
+| Module 4 – VPC | Coming soon | — |
+| Module 5 – Databases | Coming soon | — |
+| Module 6 – Monitoring | Coming soon | — |
+
+---
+
 ## 📚 Course Modules
 
 | # | Module | Status |
@@ -48,7 +61,7 @@ aws-academy/
 ## 🧪 Labs
 
 ### Module 1 – IAM
-- **Lab 1: Introduction to IAM**
+- **[Lab 1: Introduction to IAM](module-1-iam/lab-1-introduction-to-iam/lab-report.md)**
   - Explored IAM users, groups, and policies
   - Managed user-to-group assignments (S3-Support, EC2-Support, EC2-Admin)
   - Tested permissions using the IAM sign-in URL
@@ -86,8 +99,7 @@ aws-academy/
 ## 📬 Contact
 
 **GitHub:** [mosadiq22](https://github.com/mosadiq22)  
-**Email:** mo7sadiq22@gmail.com
 
 ---
 
-<p align="center">Made with ☁️ during AWS Academy – Cairo University 2026</p>
+<p align="center">Made with ☁️ during AWS Academy –  2026</p>
