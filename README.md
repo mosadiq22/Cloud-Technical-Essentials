@@ -1,10 +1,7 @@
 # ☁️ AWS Academy – Cloud Technical Essentials
 
 > Labs, reports, and notes from the AWS Academy course at Cairo University – Faculty of Computers and Artificial Intelligence.
-
-**Student:** Mohammed Alsadiq  
-**Program:** Networks and Cybersecurity – 8th Semester  
-**University:** Cairo University, FCAI  
+ 
 **Course:** AWS Academy – Cloud Technical Essentials  
 
 ---
