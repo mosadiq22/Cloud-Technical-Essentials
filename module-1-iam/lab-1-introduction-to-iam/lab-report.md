@@ -46,7 +46,7 @@ The IAM Sign-in URL was successfully obtained.
 
 **Figure 1 – IAM Dashboard showing the IAM Sign-in URL**
 
-![Figure 1 – IAM Dashboard Sign-in URL](screenshots/fig1-iam-signin-url.png)
+![Figure 1 – IAM Dashboard Sign-in URL](https://app.notion.com/p/AWS-IAM-Lab-Report-Lab-1-Introduction-to-IAM-38d2fbbadd2f80609479cc97b7341fb5?source=copy_link#38d2fbbadd2f80a5b0f9f159e445704e)
 
 ---
 
