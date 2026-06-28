@@ -70,7 +70,7 @@ The user successfully viewed the S3 bucket and its contents.
 
 **Figure 2 – user-1 accessing the S3 bucket**
 
-![Figure 2 – user-1 S3 access](https://github.com/mosadiq22/aws-academy/blob/f368cb704cbed8deb4a48e5340938c5b0145cb42/module-1-iam/lab-1-introduction-to-iam/screenshots/2.png)
+![Figure 2 – user-1 S3 access](https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/user-1.png)
 
 ---
 
@@ -93,7 +93,7 @@ This confirms that **user-1 does not have EC2 permissions**.
 
 **Figure 3 – EC2 access denied for user-1**
 
-![Figure 3 – user-1 EC2 denied](screenshots/fig3-user1-ec2-denied.png)
+![Figure 3 – user-1 EC2 denied](https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/3.png)
 
 ---
 
@@ -132,7 +132,7 @@ This confirms that **user-2 has read-only permissions** and cannot modify EC2 re
 
 **Figure 4 – Unauthorized error when stopping the instance**
 
-![Figure 4 – user-2 stop instance denied](screenshots/fig4-user2-stop-denied.png)
+![Figure 4 – user-2 stop instance denied](https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/4.png)
 
 ---
 
@@ -150,7 +150,7 @@ This confirms that **user-2 has no permissions for Amazon S3**.
 
 **Figure 5 – Empty S3 bucket list for user-2**
 
-![Figure 5 – user-2 S3 empty](screenshots/fig5-user2-s3-empty.png)
+![Figure 5 – user-2 S3 empty](https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/5.png)
 
 ---
 
@@ -173,8 +173,8 @@ This confirms that **user-3 has administrative permissions for Amazon EC2**.
 
 **Figure 6 – EC2 instance successfully stopping**
 
-![Figure 6 – user-3 EC2 stopping](screenshots/fig6-user3-ec2-stopping.png)
-
+![Figure 6 – user-3 EC2 stopping]([screenshots/fig6-user3-ec2-stopping.png](https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/6.png))
+(https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/7.png)
 ---
 
 ## Summary of Permissions
