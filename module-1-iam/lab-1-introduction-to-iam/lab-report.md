@@ -70,7 +70,7 @@ The user successfully viewed the S3 bucket and its contents.
 
 **Figure 2 – user-1 accessing the S3 bucket**
 
-![Figure 2 – user-1 S3 access](screenshots/fig2-user1-s3-access.png)
+![Figure 2 – user-1 S3 access](s[creenshots/fig2-user1-s3-access.png](https://github.com/mosadiq22/aws-academy/blob/f368cb704cbed8deb4a48e5340938c5b0145cb42/module-1-iam/lab-1-introduction-to-iam/screenshots/2.png))
 
 ---
 
