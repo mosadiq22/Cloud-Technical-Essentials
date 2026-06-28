@@ -173,8 +173,8 @@ This confirms that **user-3 has administrative permissions for Amazon EC2**.
 
 **Figure 6 – EC2 instance successfully stopping**
 
-![Figure 6 – user-3 EC2 stopping]([screenshots/fig6-user3-ec2-stopping.png](https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/6.png))
-(https://github.com/mosadiq22/aws-academy/blob/65b78d6494afe58490e3ce99e587624404896b8e/module-1-iam/lab-1-introduction-to-iam/screenshots/7.png)
+![Figure 6 – EC2 instance successfully stopping](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/module-1-iam/lab-1-introduction-to-iam/screenshots/6.png)
+![Figure 7](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/module-1-iam/lab-1-introduction-to-iam/screenshots/7.png)
 ---
 
 ## Summary of Permissions
