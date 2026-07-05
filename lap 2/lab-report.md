@@ -62,7 +62,7 @@ VPC configuration confirmed — internet gateway and route table correctly confi
 
 **Figure 1 – Lab VPC Configuration**
 
-![Figure 1 – Lab VPC](lap 2/screenshot/image.png)
+![Figure 1](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/image.png)
 
 ---
 
@@ -95,7 +95,7 @@ Security group correctly configured to allow HTTP/HTTPS inbound and necessary ou
 
 **Figure 2 – WebAppSG Inbound Rules**
 
-![Figure 2 – Security Group](lap 2/screenshot/2.png)
+![Figure 2](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/2.png)
 
 ---
 
@@ -121,30 +121,23 @@ Security group correctly configured to allow HTTP/HTTPS inbound and necessary ou
 ```bash
 #!/bin/bash -xe
 
-# Installs Node.js
 dnf install nodejs24 nodejs24-npm -y
 
-# Downloads an NPM cache from S3 to aid package installation
 aws s3 cp s3://npm-us-west-2-8257409892/npm-cache.tar.gz \
 /var/cache/npm-cache.tar.gz
 
-# Extracts the cache to a directory
 mkdir -p /root/.npm
 tar xzf /var/cache/npm-cache.tar.gz -C /root/.npm/
 
-# Downloads the web app code as a zip file
 mkdir -p /var/app/
 aws s3 cp s3://npm-us-west-2-8257409892/app.zip \
 /var/app/app.zip
 
-# Extracts the web app zip to a directory
 unzip /var/app/app.zip -d /var/app/
 
-# Runs an offline npm install for needed packages
 cd /var/app
 npm install --offline
 
-# Starts the Node.js web app
 npm start
 ```
 
@@ -156,16 +149,31 @@ Instance launched successfully.
 - **Status Check:** 3/3 checks passed
 - **Public IPv4:** assigned and accessible
 
-### Screenshot
+### Screenshots
 
-**Figure 3 – EC2 Instance Running (3/3 checks passed)**
+**Figure 3 – EC2 Launch Configuration**
 
-![Figure 3.1 – Instance Running](lap 2/screenshot/3.png)
-![Figure 3.2 – Instance Running](lap 2/screenshot/4.png)
-![Figure 3.3 – Instance Running](lap 2/screenshot/5.png)
-![Figure 3.4 – Instance Running](lap 2/screenshot/6.png)
-![Figure 3.5 – Instance Running](lap 2/screenshot/7.png)
-![Figure 3.7 – Instance Running](lap 2/screenshot/8.png)
+![Figure 3](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/3.png)
+
+**Figure 4 – Instance Details**
+
+![Figure 4](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/4.png)
+
+**Figure 5 – Instance Running**
+
+![Figure 5](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/5.png)
+
+**Figure 6 – Status Checks**
+
+![Figure 6](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/6.png)
+
+**Figure 7 – Instance Summary**
+
+![Figure 7](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/7.png)
+
+**Figure 8 – Public IP Address**
+
+![Figure 8](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/8.png)
 
 ---
 
@@ -182,9 +190,9 @@ The web application loaded successfully over HTTP on port 80.
 
 ### Screenshot
 
-**Figure 4 – Web Application Running in Browser**
+**Figure 9 – Web Application Running in Browser**
 
-![Figure 4 – Web App](lap 2/screenshot/9.png)
+![Figure 9](https://raw.githubusercontent.com/mosadiq22/aws-academy/main/lap%202/screenshot/9.png)
 
 ---
 
