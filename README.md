@@ -7,14 +7,16 @@
 ---
 
 ## 📁 Repository Structure
-
-```
 aws-academy/
 │
 ├── module-1-iam/
 │   └── lab-1-introduction-to-iam/
 │       ├── lab-report.md
 │       └── screenshots/
+│
+├── lap 2/
+│   ├── lab-report.md
+│   └── screenshot/
 │
 ├── module-2-s3/
 │
@@ -27,8 +29,7 @@ aws-academy/
 ├── module-6-monitoring/
 │
 └── notes/
-    └── general-aws-notes.md
-```
+└── general-aws-notes.md
 
 ---
 
@@ -37,8 +38,8 @@ aws-academy/
 | Module | Lab | Report |
 |--------|-----|--------|
 | Module 1 – IAM | Lab 1: Introduction to IAM | [📄 View Report](module-1-iam/lab-1-introduction-to-iam/lab-report.md) |
-| Module 2 – S3 | Coming soon | — |
-| Module 3 – EC2 | Coming soon | — |
+| Module 2 – EC2 | Lab 2: Launching EC2 & Web App | [📄 View Report](lap%202/lab-report.md) |
+| Module 3 – S3 | Coming soon | — |
 | Module 4 – VPC | Coming soon | — |
 | Module 5 – Databases | Coming soon | — |
 | Module 6 – Monitoring | Coming soon | — |
@@ -50,9 +51,9 @@ aws-academy/
 | # | Module | Status |
 |---|--------|--------|
 | 1 | Identity and Access Management (IAM) | ✅ Done |
-| 2 | Amazon S3 | 🔄 In Progress |
-| 3 | Amazon EC2 | ⏳ Upcoming |
-| 4 | Amazon VPC | ⏳ Upcoming |
+| 2 | Amazon EC2 & VPC Basics | ✅ Done |
+| 3 | Amazon S3 | 🔄 In Progress |
+| 4 | Amazon VPC (Advanced) | ⏳ Upcoming |
 | 5 | Databases (RDS / DynamoDB) | ⏳ Upcoming |
 | 6 | Monitoring & Scaling | ⏳ Upcoming |
 
@@ -67,14 +68,22 @@ aws-academy/
   - Tested permissions using the IAM sign-in URL
   - Verified the principle of least privilege across user-1, user-2, user-3
 
+### Module 2 – EC2
+- **[Lab 2: Launching EC2 & Deploying a Web Application](lap%202/lab-report.md)**
+  - Reviewed VPC configuration, subnets, and internet gateway
+  - Validated security group rules (HTTP/HTTPS inbound)
+  - Launched a t3.micro EC2 instance with Amazon Linux 2023
+  - Deployed a Node.js web app using a user data bootstrap script
+  - Accessed the running application via public IPv4 address
+
 ---
 
 ## 🔑 Key Concepts Covered
 
 - **IAM** – Users, Groups, Policies, Roles, Least Privilege
+- **EC2** – Instances, States, Instance Management, User Data
+- **VPC** – Subnets, Internet Gateway, Route Tables, Security Groups
 - **S3** – Buckets, Object Storage, Access Control
-- **EC2** – Instances, States, Instance Management
-- **VPC** – Networking, Subnets, Security Groups
 - **Shared Responsibility Model** – AWS vs Customer responsibilities
 - **Global Infrastructure** – Regions, Availability Zones, Edge Locations
 
@@ -98,8 +107,8 @@ aws-academy/
 
 ## 📬 Contact
 
-**GitHub:** [mosadiq22](https://github.com/mosadiq22)  
+**GitHub:** [mosadiq22](https://github.com/mosadiq22)
 
 ---
 
-<p align="center">Made with ☁️ during AWS Academy –  2026</p>
+<p align="center">Made with ☁️ during AWS Academy – 2026</p>
