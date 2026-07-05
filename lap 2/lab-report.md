@@ -2,7 +2,6 @@
 
 | | |
 |---|---|
-| **Student** | Mohammed Alsadiq |
 | **Course** | AWS Academy – Cloud Technical Essentials |
 | **Lab** | Launching an EC2 Instance and Deploying a Web Application |
 | **Date** | July 5, 2026 |
@@ -63,7 +62,7 @@ VPC configuration confirmed — internet gateway and route table correctly confi
 
 **Figure 1 – Lab VPC Configuration**
 
-![Figure 1 – Lab VPC](screenshots/fig1-vpc-config.png)
+![Figure 1 – Lab VPC](lap 2/screenshot/image.png)
 
 ---
 
@@ -96,7 +95,7 @@ Security group correctly configured to allow HTTP/HTTPS inbound and necessary ou
 
 **Figure 2 – WebAppSG Inbound Rules**
 
-![Figure 2 – Security Group](screenshots/fig2-security-group.png)
+![Figure 2 – Security Group](lap 2/screenshot/2.png)
 
 ---
 
@@ -161,7 +160,12 @@ Instance launched successfully.
 
 **Figure 3 – EC2 Instance Running (3/3 checks passed)**
 
-![Figure 3 – Instance Running](screenshots/fig3-instance-running.png)
+![Figure 3.1 – Instance Running](lap 2/screenshot/3.png)
+![Figure 3.2 – Instance Running](lap 2/screenshot/4.png)
+![Figure 3.3 – Instance Running](lap 2/screenshot/5.png)
+![Figure 3.4 – Instance Running](lap 2/screenshot/6.png)
+![Figure 3.5 – Instance Running](lap 2/screenshot/7.png)
+![Figure 3.7 – Instance Running](lap 2/screenshot/8.png)
 
 ---
 
@@ -180,7 +184,7 @@ The web application loaded successfully over HTTP on port 80.
 
 **Figure 4 – Web Application Running in Browser**
 
-![Figure 4 – Web App](screenshots/fig4-webapp-running.png)
+![Figure 4 – Web App](lap 2/screenshot/9.png)
 
 ---
 
