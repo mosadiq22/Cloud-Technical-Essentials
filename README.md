@@ -7,6 +7,8 @@
 ---
 
 ## 📁 Repository Structure
+
+```
 aws-academy/
 │
 ├── module-1-iam/
@@ -29,7 +31,8 @@ aws-academy/
 ├── module-6-monitoring/
 │
 └── notes/
-└── general-aws-notes.md
+    └── general-aws-notes.md
+```
 
 ---
 
