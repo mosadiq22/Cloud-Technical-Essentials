@@ -57,7 +57,7 @@ Bucket created successfully.
 
 **Figure 1 – S3 Bucket Created**
 
-![Figure 1]([lap 3/screenshots/task 1.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%201.png))
+![Figure 1](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%201.png)
 
 ---
 
