@@ -142,7 +142,7 @@ All 10 employee images uploaded successfully. Images appeared in the application
 
 **Figure 4 – Images Uploaded to S3**
 
-![Figure 4](screenshots/fig4-s3-upload.png)
+![Figure 4](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%203.png)
 
 **Figure 5 – Employee Images in Application**
 
