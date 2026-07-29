@@ -57,7 +57,7 @@ Bucket created successfully.
 
 **Figure 1 – S3 Bucket Created**
 
-![Figure 1](screenshots/fig1-s3-bucket-created.png)
+![Figure 1]([lap 3/screenshots/task 1.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%201.png))
 
 ---
 
@@ -99,7 +99,7 @@ Bucket policy saved successfully — application can now access the S3 bucket vi
 
 **Figure 2 – Bucket Policy Applied**
 
-![Figure 2](screenshots/fig2-bucket-policy.png)
+![Figure 2]([screenshots/fig2-bucket-policy.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%202.png))
 
 ---
 
