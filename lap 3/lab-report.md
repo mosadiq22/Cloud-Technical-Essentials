@@ -43,7 +43,7 @@ The objective of this lab was to:
 
 | Setting | Value |
 |---------|-------|
-| Bucket Name | employee-photo-bucket-ma-1234 |
+| Bucket Name | employee-photo-bucket-jwf-1988 |
 | Region | us-west-2 |
 | Block Public Access | Enabled (all public access blocked) |
 
@@ -57,7 +57,7 @@ Bucket created successfully.
 
 **Figure 1 – S3 Bucket Created**
 
-![Figure 1](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%201.png)
+![Figure 1](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%201.png)
 
 ---
 
@@ -76,12 +76,12 @@ Bucket created successfully.
       "Sid": "AllowS3ReadAccess",
       "Effect": "Allow",
       "Principal": {
-        "AWS": "arn:aws:iam::ACCOUNT-ID:role/EmployeeDirectoryAppRole"
+        "AWS": "arn:aws:iam::885491962559:role/EmployeeDirectoryAppRole"
       },
       "Action": "s3:*",
       "Resource": [
-        "arn:aws:s3:::employee-photo-bucket-ma-1234",
-        "arn:aws:s3:::employee-photo-bucket-ma-1234/*"
+        "arn:aws:s3:::employee-photo-bucket-jwf-1988",
+        "arn:aws:s3:::employee-photo-bucket-jwf-1988/*"
       ]
     }
   ]
@@ -99,7 +99,7 @@ Bucket policy saved successfully — application can now access the S3 bucket vi
 
 **Figure 2 – Bucket Policy Applied**
 
-![Figure 2](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%202.png)
+![Figure 2](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%202.png)
 
 ---
 
@@ -110,7 +110,7 @@ Bucket policy saved successfully — application can now access the S3 bucket vi
 1. Opened the Employee Directory web application.
 2. Navigated to **Administration → Configuration**.
 3. Chose **Change** in the S3 Bucket field.
-4. Entered the bucket name: `employee-photo-bucket-ma-1234`.
+4. Entered the bucket name: `employee-photo-bucket-jwf-1988`.
 5. Chose **Save**.
 
 ### Result
@@ -121,7 +121,7 @@ Application successfully configured to use the S3 bucket. S3 Access Enabled indi
 
 **Figure 3 – Application S3 Configuration**
 
-![Figure 3]([screenshots/fig3-app-s3-config.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%203.png)
+![Figure 3](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%203.png)
 
 ---
 
@@ -142,11 +142,7 @@ All 10 employee images uploaded successfully. Images appeared in the application
 
 **Figure 4 – Images Uploaded to S3**
 
-![Figure 4](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%204.png)
-
-**Figure 5 – Employee Images in Application**
-
-![Figure 5]([screenshots/fig5-app-images.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%205.png)
+![Figure 4](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%204.png)
 
 ---
 
@@ -170,9 +166,9 @@ DynamoDB table `Employees` created successfully with status **Active**.
 
 ### Screenshot
 
-**Figure 6 – DynamoDB Table Created**
+**Figure 5 – DynamoDB Table Created**
 
-![Figure 6]([screenshots/fig6-dynamodb-table.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%206.png)
+![Figure 5](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%205.png)
 
 ---
 
@@ -193,9 +189,9 @@ New employee record created and displayed correctly in the application.
 
 ### Screenshot
 
-**Figure 7 – New Employee Added via Web Interface**
+**Figure 6 – New Employee Added via Web Interface**
 
-![Figure 7]([screenshots/fig7-new-employee.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%207.png)
+![Figure 6](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%206.png)
 
 ---
 
@@ -215,9 +211,9 @@ Item updated successfully. Changes reflected immediately in the web application.
 
 ### Screenshot
 
-**Figure 8 – Editing DynamoDB Item**
+**Figure 7 – Editing DynamoDB Item**
 
-![Figure 8](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%208.png)
+![Figure 7](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%207.png)
 
 ---
 
@@ -230,11 +226,11 @@ Item updated successfully. Changes reflected immediately in the web application.
 
 | Attribute | Value |
 |-----------|-------|
-| id | unique-id-001 |
-| name | nila|
+| id | 057b1086-d923-42e7-801b-39d9b8c930c2 |
+| name | Mohamed |
 | location | New York |
-| email | nila@example.ca |
-| photo | (empty) |
+| email | mohamed@example.nyc |
+| photo | employee-3.png |
 
 3. Chose **Create item**.
 
@@ -244,11 +240,17 @@ Item saved successfully and appeared in the Employee Directory application.
 
 ### Screenshot
 
-**Figure 9 – New Item Created in DynamoDB Console**
+**Figure 8 – New Item Created in DynamoDB Console**
 
-![Figure 9]([screenshots/fig9-dynamodb-create.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%209.png)
+![Figure 8](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%208.png)
 
-![Figure 10]([screenshots/fig9-dynamodb-create.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%2010.png)
+**Figure 9 – Employee Directory with New Item**
+
+![Figure 9](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%209.png)
+
+**Figure 10 – Final Application View**
+
+![Figure 10](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%2010.png)
 
 ---
 
