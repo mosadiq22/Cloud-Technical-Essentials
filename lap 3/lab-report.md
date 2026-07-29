@@ -121,7 +121,7 @@ Application successfully configured to use the S3 bucket. S3 Access Enabled indi
 
 **Figure 3 – Application S3 Configuration**
 
-![Figure 3](screenshots/fig3-app-s3-config.png)
+![Figure 3]([screenshots/fig3-app-s3-config.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%203.png))
 
 ---
 
@@ -142,11 +142,11 @@ All 10 employee images uploaded successfully. Images appeared in the application
 
 **Figure 4 – Images Uploaded to S3**
 
-![Figure 4](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%203.png)
+![Figure 4](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%204.png)
 
 **Figure 5 – Employee Images in Application**
 
-![Figure 5](screenshots/fig5-app-images.png)
+![Figure 5]([screenshots/fig5-app-images.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%205.png))
 
 ---
 
@@ -172,7 +172,7 @@ DynamoDB table `Employees` created successfully with status **Active**.
 
 **Figure 6 – DynamoDB Table Created**
 
-![Figure 6](screenshots/fig6-dynamodb-table.png)
+![Figure 6]([screenshots/fig6-dynamodb-table.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%206.png))
 
 ---
 
@@ -195,7 +195,7 @@ New employee record created and displayed correctly in the application.
 
 **Figure 7 – New Employee Added via Web Interface**
 
-![Figure 7](screenshots/fig7-new-employee.png)
+![Figure 7]([screenshots/fig7-new-employee.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%207.png))
 
 ---
 
@@ -217,7 +217,7 @@ Item updated successfully. Changes reflected immediately in the web application.
 
 **Figure 8 – Editing DynamoDB Item**
 
-![Figure 8](screenshots/fig8-dynamodb-edit.png)
+![Figure 8](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%208.png)
 
 ---
 
@@ -246,7 +246,9 @@ Item saved successfully and appeared in the Employee Directory application.
 
 **Figure 9 – New Item Created in DynamoDB Console**
 
-![Figure 9](screenshots/fig9-dynamodb-create.png)
+![Figure 9]([screenshots/fig9-dynamodb-create.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%209.png))
+
+![Figure 10]([screenshots/fig9-dynamodb-create.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%2010.png))
 
 ---
 
