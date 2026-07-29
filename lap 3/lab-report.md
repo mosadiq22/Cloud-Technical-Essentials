@@ -144,6 +144,9 @@ All 10 employee images uploaded successfully. Images appeared in the application
 
 ![Figure 4](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%204.png)
 
+**Figure 5 – Employee Images in Application**
+![Figure 5]([https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%204.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%205.png))
+
 ---
 
 ## Task 5 – Create an Amazon DynamoDB Table
@@ -168,11 +171,8 @@ DynamoDB table `Employees` created successfully with status **Active**.
 
 **Figure 5 – DynamoDB Table Created**
 
-![Figure 5](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%205.png)
+![Figure 5](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%206.png)
 
-**Figure 5 – Employee Images in Application**
-
-![Figure 6](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%206.png)
 
 ---
 
@@ -195,7 +195,7 @@ New employee record created and displayed correctly in the application.
 
 **Figure 6 – New Employee Added via Web Interface**
 
-![Figure 6](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%206.png)
+![Figure 6](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%207.png)
 
 ---
 
