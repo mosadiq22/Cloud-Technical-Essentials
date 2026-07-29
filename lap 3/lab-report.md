@@ -145,7 +145,7 @@ All 10 employee images uploaded successfully. Images appeared in the application
 ![Figure 4](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%204.png)
 
 **Figure 5 – Employee Images in Application**
-![Figure 5]([https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%204.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%205.png))
+![Figure 5](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%205.png)
 
 ---
 
@@ -231,9 +231,9 @@ Item updated successfully. Changes reflected immediately in the web application.
 | Attribute | Value |
 |-----------|-------|
 | id | 057b1086-d923-42e7-801b-39d9b8c930c2 |
-| name | Mohamed |
-| location | New York |
-| email | mohamed@example.nyc |
+| name | Nila |
+| location | Sacramento |
+| email | nila@example.ca |
 | photo | employee-3.png |
 
 3. Chose **Create item**.
