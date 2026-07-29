@@ -170,6 +170,10 @@ DynamoDB table `Employees` created successfully with status **Active**.
 
 ![Figure 5](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%205.png)
 
+**Figure 5 – Employee Images in Application**
+
+![Figure 6](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%206.png)
+
 ---
 
 ## Task 6 – Test the Application Using the Web Interface
@@ -191,7 +195,7 @@ New employee record created and displayed correctly in the application.
 
 **Figure 6 – New Employee Added via Web Interface**
 
-![Figure 6](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%206.png)
+![Figure 6](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%206.png)
 
 ---
 
@@ -213,7 +217,7 @@ Item updated successfully. Changes reflected immediately in the web application.
 
 **Figure 7 – Editing DynamoDB Item**
 
-![Figure 7](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%207.png)
+![Figure 8](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%208.png)
 
 ---
 
@@ -239,10 +243,6 @@ Item updated successfully. Changes reflected immediately in the web application.
 Item saved successfully and appeared in the Employee Directory application.
 
 ### Screenshot
-
-**Figure 8 – New Item Created in DynamoDB Console**
-
-![Figure 8](https://raw.githubusercontent.com/mosadiq22/aws-academy/master/lap%203/screenshots/task%208.png)
 
 **Figure 9 – Employee Directory with New Item**
 
