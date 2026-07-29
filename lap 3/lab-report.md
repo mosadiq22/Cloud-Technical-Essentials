@@ -99,7 +99,7 @@ Bucket policy saved successfully — application can now access the S3 bucket vi
 
 **Figure 2 – Bucket Policy Applied**
 
-![Figure 2]([screenshots/fig2-bucket-policy.png](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%202.png))
+![Figure 2](https://github.com/mosadiq22/aws-academy/blob/3c035ab239cfdf7f1b507ca449ef45e3621bfd83/lap%203/screenshots/task%202.png)
 
 ---
 
